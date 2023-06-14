@@ -1,0 +1,4 @@
+docxtpl==0.16.7
+pathlib==1.0.1
+docxcompose==1.4.0
+streamlit==1.22.0
